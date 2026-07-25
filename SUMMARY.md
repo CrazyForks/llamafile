@@ -5,7 +5,7 @@
 ## Getting Started
 
 * [Quickstart](quickstart.md)
-* [Example llamafiles](example_llamafiles.md)
+* [Pre-built llamafiles](pre-built-llamafiles.md)
 
 ## Using llamafile
 
@@ -17,6 +17,7 @@
 ## Reference
 
 * [Technical details](technical_details.md)
+* [Security](security.md)
 * [Supported Systems](support.md)
 * [Troubleshooting](troubleshooting.md)
 
